@@ -1,43 +1,64 @@
 <h1 align="center">Hi 👋, I'm Rosan</h1>
-<h3 align="center">🚀 Mahasiswa | Belajar AI, Cybersecurity & IoT | Arch Linux Enthusiast 🐧</h3>
+<h3 align="center">🚀 Mahasiswa | Fullstack Web Developer | AI | Arch Linux Enthusiast 🐧</h3>
 
 ---
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://instagram.com/USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
-<a href="https://www.linkedin.com/in/USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-<a href="https://youtube.com/@USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=youtube" alt="youtube" /></a>
-<a href="https://tiktok.com/@USERNAME" target="blank"><img align="center" src="https://skillicons.dev/icons?i=tiktok" alt="tiktok" /></a>
+<a href="https://instagram.com/r0.sn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.linkedin.com/in/rausyanul-fikri" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
 
 ### 🛠 Tech Stack:
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,anaconda,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,seaborn" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,sklearn,numpy,pandas,matplotlib,seaborn" />
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,flutter,dart,firebase,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,laravel" />
 <br/>
-<img src="https://skillicons.dev/icons?i=arch,linux,git,github,vscode,figma,ai,ps,pr,ae" />
+<img src="https://skillicons.dev/icons?i=arch,linux,git,github,vscode,figma,ai,ps" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rosan-f&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=rosan-f&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🔒 [Cybersecurity Mini Lab](https://github.com/USERNAME/cyber-lab)
-- 🤖 [Machine Learning Playground](https://github.com/USERNAME/ml-playground)
-- 📊 [Data Science Portfolio](https://github.com/USERNAME/data-science)
+### 📈 Contribution Graph
+[![Rosan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rosan-f&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-⭐️ From [USERNAME](https://github.com/USERNAME)
+### 📊 Profile Details Chart
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosan-f&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosan-f&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rosan-f&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+### 🌱 Current Focus
+- Machine Learning & AI   
+
+---
+
+⭐️ From [rosan-f](https://github.com/rosan-f)
