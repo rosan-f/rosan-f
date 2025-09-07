@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rosan</h1>
-<h3 align="center">🚀 Mahasiswa | Fullstack Web Developer | AI | Arch Linux Enthusiast 🐧</h3>
+<h1 align="center">Hi, I'm Rosan</h1>
+<h3 align="center">Mahasiswa | Fullstack Web Developer | AI | Arch Linux Enthusiast </h3>
 
 ---
 
