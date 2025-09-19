@@ -1,34 +1,37 @@
 <h1 align="center">Hi, I'm Rosan</h1>
-<h3 align="center">Mahasiswa | Fullstack Web Developer | AI | Arch Linux Enthusiast </h3>
+<h3 align="center">Fullstack Web Developer | Machine Learning | Arch Linux Enthusiast</h3>
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://instagram.com/r0.sn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://www.linkedin.com/in/rausyanul-fikri" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+### 🔗 Connect with me
+<p align="center">
+  <a href="https://instagram.com/r0.sn_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/rausyanul-fikri" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/rosan-f" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
-### 🛠 Tech Stack:
-<!-- Library -->
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 🛠 Tech Stack
+#### Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/seaborn-0099CC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
-<!-- Framework & Tools -->
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,laravel" /><br/>
+#### Frameworks & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,laravel" />
+  <br/>
   <img src="https://skillicons.dev/icons?i=arch,linux,git,github,vscode,figma,ai,ps" />
 </p>
 
-
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rosan-f&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://streak-stats.demolab.com/?user=rosan-f&theme=tokyonight" height="150" />
@@ -36,12 +39,12 @@
 
 ---
 
-### 📈 Contribution Graph
-[![Rosan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rosan-f&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 GitHub Activity
+[![Rosan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rosan-f&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 📊 Profile Details Chart
+### 📊 Profile Summary
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosan-f&theme=tokyonight" />
 </p>
@@ -63,8 +66,5 @@
 ---
 
 ### 🌱 Current Focus
-- Machine Learning & AI   
-
----
-
-⭐️ From [rosan-f](https://github.com/rosan-f)
+- Machine Learning & Fullstack Web Development
+- Building real-world ML projects & web apps
