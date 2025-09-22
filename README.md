@@ -11,8 +11,8 @@
 </p>
 
 ---
-
 ### 🛠 Tech Stack
+
 #### Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -24,10 +24,11 @@
 
 #### Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,laravel" />
+  <img src="https://skillicons.dev/icons?i=react,laravel,django,tailwind" />
   <br/>
   <img src="https://skillicons.dev/icons?i=arch,linux,git,github,vscode,figma,ai,ps" />
 </p>
+
 
 ---
 
