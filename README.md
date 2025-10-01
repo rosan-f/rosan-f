@@ -34,8 +34,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosan-f&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=rosan-f&theme=tokyonight&cache_seconds=3" height="150" />
+  
+  <img src="https://streak-stats.demolab.com?user=rosan-f&theme=tokyonight&cache_seconds=3" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rosan-f&show_icons=true&theme=tokyonight&cache_seconds=2" alt="GitHub Stats"/>
+
 </p>
 
 ---
