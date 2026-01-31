@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rosan</h1>
-<h3 align="center">Fullstack Web Developer | Machine Learning & Linux Enthusiast</h3>
+<h3 align="center">Software Engineer | Machine Learning & Linux Enthusiast</h3>
 
 ---
 
