@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Rausyanul%20Fikri&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer&descAlignY=58&descSize=20&descColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Rausyanul%20Fikri&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=fff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=React+%7C+Laravel+%7C+Node.js;Building+Scalable+Web+Apps;UI%2FUX+Design+Enthusiast;Open+to+Collaborate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Web+%26+System+Security+Enthusiast;Building+Scalable%2C+Secure+Applications;Open+to+Collaborate" alt="Typing SVG" />
 
 <br/>
 
@@ -20,37 +20,51 @@
 
 ## About Me
 
-Fullstack web developer based in Aceh, Indonesia — focused on building progressive web apps and single-page applications from UI/UX in Figma through to production-ready REST APIs. Currently deepening advanced React patterns, microservices architecture, and cloud deployment on AWS.
+Fullstack web developer based in Aceh, Indonesia, focused on building production-ready web applications from UI/UX design through to deployment. Alongside development work, I maintain a self-built penetration testing lab to study application and system security from an offensive perspective — covering web application vulnerabilities, Linux/Windows privilege escalation, and secure coding practices. Currently deepening advanced React patterns, cloud deployment on AWS, and hands-on security testing methodology.
 
 <br/>
 
 ## Tech Stack
 
-<div align="center">
-
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" /></p>
+React · JavaScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,django,python" /></p>
+Node.js · Express · Laravel · PHP · Django · Python
 
 **Database**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /></p>
+MySQL · PostgreSQL · MongoDB
 
 **Tools & Design**
-<p><img src="https://skillicons.dev/icons?i=figma,ai,git,github,vscode,postman" /></p>
+Figma · Adobe Illustrator · Git · GitHub · VS Code · Postman
 
-</div>
+<br/>
+
+## Security & Penetration Testing
+
+Hands-on experience from a self-built, isolated lab environment (VMware), covering the full attack chain from reconnaissance to privilege escalation.
+
+**Methodology**
+Network Scanning & Enumeration · Vulnerability Analysis · Black-box Content Discovery (Directory/File/Parameter Fuzzing) · Overt & Covert Testing Approaches
+
+**Web Application Security**
+SQL Injection · Path Traversal · Authentication Testing · OWASP Top 10
+
+**System & Network**
+Linux Privilege Escalation (Sudoers Misconfiguration, SUID) · Windows Privilege Escalation (AlwaysInstallElevated) · Password Cracking & Hash Analysis · SMB/RDP Enumeration
+
+**Tools**
+Nmap · FFuF · sqlmap · Hashcat · NetExec · enum4linux-ng · WinPEAS/LinPEAS · Impacket
 
 <br/>
 
 ## GitHub Streak
 
 <!--
-  Catatan: kartu ini manggil layanan pihak ketiga gratis. Domain di bawah
-  (streak-stats.demolab.com) lebih stabil dari herokuapp lama, tapi pernah
-  dilaporkan down juga oleh komunitasnya. Kalau blank, tunggu beberapa saat
-  lalu refresh - itu bukan link yang salah.
+  Note: this card calls a free third-party service. The domain below
+  (streak-stats.demolab.com) is more stable than the old herokuapp one,
+  but community reports say it can still go down occasionally. If it
+  renders blank, wait a moment and refresh — the link itself is correct.
 -->
 
 <div align="center">
